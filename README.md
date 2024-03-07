@@ -1,5 +1,6 @@
 <h1>Target-Sistemas--Vaga-Estagio</h1>
 <h2>Exercicios Realizados com NodeJS</h2>
+<h3>Necessario instalar o pacote numero-por-extenso (npm install numero-por-extenso) *vai ser usado na questao (3-f)</h3>
 
 1 ) . Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA? <h4>RESPOSTA : SOMA = 55</h4>
