@@ -1,11 +1,11 @@
-let lampadaDesligada = "/estagio/img/lampadaDesligada.jpg";
-let lampadaLigada = "/estagio/img/lampadaLigada.jpg";
+let lampadaDesligada = "img/lampadaDesligada.jpg";
+let lampadaLigada = "img/lampadaLigada.jpg";
 
 
 function acendeApaga() {
     let lampada = document.getElementById("lampada");
-    let interruptor01 = document.getElementById("interruptor01");
-    if(interruptor01.checked){
+    let interruptor03 = document.getElementById("interruptor03");
+    if(interruptor03.checked){
         lampada.src = lampadaLigada;
         quenteOuFrio();
     }else {

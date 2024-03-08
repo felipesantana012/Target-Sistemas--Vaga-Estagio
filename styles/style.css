@@ -1,4 +1,6 @@
 
+
+
 .cabecalho{
     display: flex;
     flex-direction: column;
@@ -11,6 +13,7 @@
 .cabecalho__titulo{
     font-size: 25px;
     padding: 0.5em;
+    
 }
 
 .cabecalho__paragrafo{
@@ -23,6 +26,7 @@
 .cabecalho__resposta_titulo{
     font-size: 17px;
     padding: 0.5em;
+    cursor: pointer;
 }
 
 #resposta{
@@ -72,18 +76,11 @@
     border-color: transparent;
     background-color:rgb(243, 227, 110);
     cursor: pointer;
-    margin: 1px 4px 0px 0px
+    margin: 1px 10px 0px 0px;
+   
 }
 
 .container__butao:hover{
     background-color: rgb(177, 167, 95);
 }
 
-.rodape{
-    display: flex;
-    justify-content: center;
-    padding: 2em;
-    margin-top: 2.2em;
-    align-items: center;
-    background-color: rgb(245, 234, 155);
-}
