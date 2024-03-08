@@ -43,7 +43,7 @@ const sequenciaFibonacci = (numero) => {
     }
     return sequencia;
 }  
-console.log(sequenciaFibonacci(10));
+console.log(sequenciaFibonacci(56));
 
 //-----------------------------------------
 console.log('-----------Questão F-----------');
