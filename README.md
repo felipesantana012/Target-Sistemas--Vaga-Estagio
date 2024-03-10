@@ -1,8 +1,9 @@
 <h1>Target-Sistemas--Vaga-Estagio</h1>
-<h2>Exercicios Realizados com NodeJS</h2>
-<h3>Necessario instalar o pacote numero-por-extenso (npm install numero-por-extenso) *vai ser usado na questao (3-f)</h3>
-<h3>Exercicio 04 foi realizado com JS, CSS E HTML, para dar uma dinamica na resposta</h3>
-<h4>Todos os exercicios foram feitos com muita dedicação e muito aprendizado, estou muito grato por participar desses desafio e pronto para aprender cada vez mais.</h4>
+<h2>Exercícios Realizados com NodeJS</h2>
+<h3>Necessário instalar o pacote numero-por-extenso (npm install numero-por-extenso) *vai ser usado na questão (3-f)</h3>
+<h3>Exercício 04 foi realizado com JS, CSS E HTML e está responsivo, para dar uma dinâmica na resposta.
+Ele foi hospedado na plataforma do versel para fácil acesso. Link - https://jogo-lampada.vercel.app/</h3>
+<h4>Todos os exercícios foram feitos com muita dedicação, com meu conhecimento básico e muito aprendizado. Estou muito grato por participar desses desafios e pronto para aprender e desenvolver cada vez mais com novos desafios.⁣ </h4>
 
 1 ) . Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
@@ -45,4 +46,4 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
-<h4>RESPOSTA : foi usado o for of, para percorrer todas as letras da variavel,  então concatenei com o restante das letras e então a palavra ficou inversa </h4>
+<h4>RESPOSTA : foi usado o for of, para percorrer todas as letras da variável,  então concatenei com o restante das letras e então a palavra ficou inversa </h4>
