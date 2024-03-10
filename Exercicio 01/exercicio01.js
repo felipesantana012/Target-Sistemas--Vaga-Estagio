@@ -9,7 +9,7 @@ imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
  */
 
-const indice = 10;
+const indice = 13;
 let soma = 0;
 let k = 0;
 
